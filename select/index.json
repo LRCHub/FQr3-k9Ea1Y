@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Divinity",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-18T01:24:57.214140Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Divinity",
+      "artist": "Amorphous Androgynous",
+      "has_synced": true,
+      "path": "select/01_Divinity_Amorphous_Androgynous.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Divinity",
+      "artist": "Amorphis",
+      "has_synced": true,
+      "path": "select/02_Divinity_Amorphis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "God Of Our Own Divinity",
+      "artist": "Morbid Angel",
+      "has_synced": true,
+      "path": "select/03_God_Of_Our_Own_Divinity_Morbid_Angel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In Waking: Divinity",
+      "artist": "The Breathing Process",
+      "has_synced": false,
+      "path": "select/04_In_Waking__Divinity_The_Breathing_Process.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Taste the Extreme Divinity",
+      "artist": "Hypocrisy",
+      "has_synced": true,
+      "path": "select/05_Taste_the_Extreme_Divinity_Hypocrisy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Burden of Divinity",
+      "artist": "Visions of Atlantis",
+      "has_synced": true,
+      "path": "select/06_Burden_of_Divinity_Visions_of_Atlantis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Divinity Within",
+      "artist": "Protest the Hero",
+      "has_synced": true,
+      "path": "select/07_Divinity_Within_Protest_the_Hero.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Your Path to Divinity",
+      "artist": "Jesu",
+      "has_synced": false,
+      "path": "select/08_Your_Path_to_Divinity_Jesu.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Anti-Divinity",
+      "artist": "Moontype",
+      "has_synced": true,
+      "path": "select/09_Anti-Divinity_Moontype.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Divinity",
+      "artist": "Porter Robinson feat. Amy Millan",
+      "has_synced": true,
+      "path": "select/10_Divinity_Porter_Robinson_feat._Amy_Millan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Divinity",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/11_Divinity_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Divinity (feat. Amy Millan)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/12_Divinity_(feat._Amy_Millan)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Divinity",
+      "artist": "Brand of Sacrifice",
+      "has_synced": true,
+      "path": "select/13_Divinity_Brand_of_Sacrifice.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Divinity",
+      "artist": "Memphis May Fire",
+      "has_synced": false,
+      "path": "select/14_Divinity_Memphis_May_Fire.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Servants of Divinity",
+      "artist": "Bleed From Within",
+      "has_synced": true,
+      "path": "select/15_Servants_of_Divinity_Bleed_From_Within.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jesus Announces His Divinity*",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/16_Jesus_Announces_His_Divinity_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Jesus Announces His Divinity",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/17_Jesus_Announces_His_Divinity_Johnny_Cash.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Divinity",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Divinity_Porter_Robinson.txt"
+    }
+  ]
+}
